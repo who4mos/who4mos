@@ -1,0 +1,6 @@
+* Hi there :wave:
+
+This is the powerful machine i use:
+
+[[file:neofetch.png]]
+

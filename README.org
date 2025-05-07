@@ -1,0 +1,11 @@
+* Hello There 👋
+
+Testando os emoji aq no emacs e como vao ficar no profile README (.org nesse caso).
+
+
+
+
+
+
+
+

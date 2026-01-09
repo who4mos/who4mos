@@ -2,7 +2,6 @@
 
 - I'm an Information Systems student at UFF (Universidade Federal Fluminense)
 - Currently learning java and databases
-- Now i'm using void linux as my OS
 - I use emacs btw
 
 * ⚙️ Tools and Languages
